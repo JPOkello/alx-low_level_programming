@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- *positive_or_negative
+ *main - tell us about the input number
+ *
+ * Return: always (0)
  */
 
 
