@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- *main - tell us about the input number
+ * main - tell us about the input number
  *
  * Return: always (0)
  */
